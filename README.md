@@ -1,0 +1,5 @@
+- 👋 Olá, meu nome é Joel Almeida
+- 👀 Atualmente meu interesse é em programação back-end
+- 🌱 Iniciei meus estudos em C#
+- 💞️ Desejo participar em uma equipe de desenvolvimento, seja de jogos, sites ou aplicações
+- 📫 Meu instagram é @_joel_almeida, meu e-mail é pro_joel.almeida@hotmail.com
